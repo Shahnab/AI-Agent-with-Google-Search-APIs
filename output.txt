@@ -1,0 +1,16 @@
+TODO list for the objective "List 10 things that happened in AI in 2023 so far. Put it in a table with links to the sources":
+1. Research and gather information on the latest developments in AI in 2023.
+2. Create a table with 10 rows and 3 columns: "Event", "Date", and "Source".
+3. Begin filling in the table with the 10 most significant events in AI in 2023 so far.
+4. For each event, include the date it occurred and a link to a reputable source that reported on it.
+5. Double-check all sources to ensure they are reliable and up-to-date.
+6. Edit and format the table to make it easy to read and visually appealing.
+7. Review the table to ensure all events are accurately represented and all sources are properly cited.
+8. Share the table with relevant stakeholders, such as colleagues or clients, as needed.
+9. Update the table as new events occur throughout the year.
+10. Continuously monitor developments in AI to ensure the table remains relevant and up-to-date.
+
+1. OpenAI releases GPT-4, the most advanced language model to date. 2. Google announces major updates to its AI-powered search algorithm. 3. Amazon introduces new AI-powered features to its Alexa virtual assistant. 4. IBM launches a new AI-powered cybersecurity platform. 5. Tesla unveils a new self-driving car system. 6. Facebook faces criticism over its use of AI algorithms. 7. Microsoft acquires a leading AI startup. 8. AI-powered medical diagnosis tools show promising results. 9. Google's DeepMind achieves a major breakthrough in protein folding prediction. 10. The use of AI in hiring practices comes under scrutiny.
+
+The plan includes researching existing methods and best practices, consulting with AI experts, developing a framework based on their recommendations, testing and refining the framework, and implementing and monitoring its effectiveness.
+
